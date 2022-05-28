@@ -2,7 +2,7 @@
 
 :telescope:
 
-⭐ I’m currently working on project called Pipex(C) and TicTacToe(python)
+:star: I’m currently working on project called Pipex(C) and TicTacToe(python)
 🤓 Currently learning C / Python
 ❄️ Currently studying Software engineering at 42 Wolfsburg
 
